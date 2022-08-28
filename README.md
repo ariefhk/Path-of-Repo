@@ -1,4 +1,4 @@
-# Path-of-Repo
+# Path Repository biar gampang maintain 👨‍💻
 
 MSIB - BISA AI : (FOCUSED🔥)<br>
   - [Bisa Ai Learning Journal](https://github.com/ariefhk/Bisa-Ai-Learning-Journal)
