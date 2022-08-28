@@ -8,6 +8,18 @@ Python : <br>
   - [Fork-30 Days of Python](https://github.com/ariefhk/30-Days-Of-Python)
   - [Fork-Python Algoritm and Datasctucture](https://github.com/ariefhk/Python-Algoritm-and-Datasctructure)
   - [Fork-Data Structure Algoritm Python](https://github.com/ariefhk/data-structures-algorithms-python)
+  
+WEB : <br>
+  - HTML
+    - [Learn HTML](https://github.com/ariefhk/Learn-WEB)
+  - CSS
+    - [Learn CSS]()
+  - Vanilla JS
+    - [Learn Vanilla JS](https://github.com/ariefhk/Learn-JavaScript)
+  - Project WEB
+    - [Ngaostfm](https://github.com/ariefhk/ngaostfm-web)
+    - [Design to Code](https://github.com/ariefhk/design-to-code)
+    - [Fork-50Projects 50 days WEB](https://github.com/ariefhk/50projects50daysWEB)
 
 Tailwind : <br>
   - [Ngaos Web](https://github.com/ariefhk/tailwind-ngaos)
@@ -29,4 +41,9 @@ React Native : <br>
   - [RN-Component](https://github.com/ariefhk/RN-Component)
   - [SanberCode Academy Apps](https://github.com/ariefhk/sanber-code-academy)
   - [Fork-30 Days of RN](https://github.com/ariefhk/30-days-of-react-native)
+  
+Node Js : <br>
+  - [Learn Node](https://github.com/ariefhk/Learn-node)
+  
+
 
