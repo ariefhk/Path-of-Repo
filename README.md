@@ -71,6 +71,8 @@ Kotlin : <br>
 Java : <br>
   - [Fork-Java Algorithm](https://github.com/ariefhk/java-algorithms-implementation)
   - [Voting Apps Netbeans Dekstop App](https://github.com/ariefhk/aplikasi-voting-VotingApps-)
+
+Skilvul : [(src)=> src](https://github.com/ariefhk/Skilvul-learning-journal)
   
 FreeCodeCamp : [(src) => src](https://github.com/ariefhk/FreeCodeCamp)
 
