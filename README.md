@@ -4,7 +4,7 @@ MSIB - BISA AI : <br>
 https://github.com/ariefhk/Bisa-Ai-Learning-Journal
 
 Tailwind : <br>
-          --> <span>https://github.com/ariefhk/tailwind-ngaos</span>
+[^1]: https://github.com/ariefhk/tailwind-ngaos
 
 https://github.com/ariefhk/teachUs-landing-page
 
