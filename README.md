@@ -80,6 +80,8 @@ W3Schools : [(src) => src](https://github.com/ariefhk/W3School-Learn)
 
 PDF Learn Coding : [(pdf) => pdf](https://github.com/ariefhk/PDF-Learn-About-Coding)
 
+Linkedin Test : [(src) => src)(https://github.com/ariefhk/linkedin-skill-assessments-quizzes)
+
 Collection : <br>
   - SVG 
     - [SVG Repo](https://github.com/ariefhk/svg-resource)
