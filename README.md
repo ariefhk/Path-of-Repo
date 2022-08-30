@@ -1,4 +1,4 @@
-# Path Repository biar gampang maintain 👨‍💻<br>
+# Path Repository biar gampang Maintain 👨‍💻<br>
 
 ## Focused🔥 <br>
 MSIB - BISA AI : (FOCUSED🔥)<br>
