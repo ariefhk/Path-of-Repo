@@ -1,5 +1,6 @@
 # Path Repository biar gampang maintain 👨‍💻
 
+## Focused🔥 <br>
 MSIB - BISA AI : (FOCUSED🔥)<br>
   - [Bisa Ai Learning Journal](https://github.com/ariefhk/Bisa-Ai-Learning-Journal)
   
@@ -45,6 +46,24 @@ React Native : (FOCUSED🔥)<br>
 Node Js : (FOCUSED🔥)<br>
   - [Learn Node](https://github.com/ariefhk/Learn-node)
   
+## Learning Journal <br>
+Skilvul : [Link-repo](https://github.com/ariefhk/Skilvul-learning-journal)
+  
+FreeCodeCamp : [Link-repo](https://github.com/ariefhk/FreeCodeCamp)
+
+W3Schools : [Link-repo](https://github.com/ariefhk/W3School-Learn)
+
+PDF Learn Coding : [Link-repo](https://github.com/ariefhk/PDF-Learn-About-Coding)
+
+Linkedin Test : [Link-repo](https://github.com/ariefhk/linkedin-skill-assessments-quizzes)
+
+Collection : <br>
+  - SVG 
+    - [SVG Repo](https://github.com/ariefhk/svg-resource)
+  - Daftar API
+    - [Fork-Daftar Lokal](https://github.com/ariefhk/DAFTAR-API-LOKAL-INDONESIA)
+  
+## Not Focused <br>
 Flutter & Dart : <br>
   - [Fork-FLutter Roadmap](https://github.com/ariefhk/Flutter-Roadmap)
   - [Fork-Dart Algo](https://github.com/ariefhk/DartAlgo)
@@ -72,20 +91,6 @@ Java : <br>
   - [Fork-Java Algorithm](https://github.com/ariefhk/java-algorithms-implementation)
   - [Voting Apps Netbeans Dekstop App](https://github.com/ariefhk/aplikasi-voting-VotingApps-)
 
-Skilvul : [(src)=> src](https://github.com/ariefhk/Skilvul-learning-journal)
-  
-FreeCodeCamp : [(src) => src](https://github.com/ariefhk/FreeCodeCamp)
 
-W3Schools : [(src) => src](https://github.com/ariefhk/W3School-Learn)
-
-PDF Learn Coding : [(pdf) => pdf](https://github.com/ariefhk/PDF-Learn-About-Coding)
-
-Linkedin Test : [(src) => src)(https://github.com/ariefhk/linkedin-skill-assessments-quizzes)
-
-Collection : <br>
-  - SVG 
-    - [SVG Repo](https://github.com/ariefhk/svg-resource)
-  - Daftar API
-    - [Fork-Daftar Lokal](https://github.com/ariefhk/DAFTAR-API-LOKAL-INDONESIA)
 
 
