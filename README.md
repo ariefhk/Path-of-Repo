@@ -1,5 +1,5 @@
 # Path Repository biar gampang maintain 👨‍💻
-
+<br>
 ## Focused🔥 <br>
 MSIB - BISA AI : (FOCUSED🔥)<br>
   - [Bisa Ai Learning Journal](https://github.com/ariefhk/Bisa-Ai-Learning-Journal)
@@ -45,8 +45,8 @@ React Native : (FOCUSED🔥)<br>
   
 Node Js : (FOCUSED🔥)<br>
   - [Learn Node](https://github.com/ariefhk/Learn-node)
-  
-## Learning Journal <br>
+<br>
+## Learning Journal💻 <br>
 Skilvul : [Link-repo](https://github.com/ariefhk/Skilvul-learning-journal)
   
 FreeCodeCamp : [Link-repo](https://github.com/ariefhk/FreeCodeCamp)
@@ -63,7 +63,8 @@ Collection : <br>
   - Daftar API
     - [Fork-Daftar Lokal](https://github.com/ariefhk/DAFTAR-API-LOKAL-INDONESIA)
   
-## Not Focused <br>
+<br>
+## Not Focused🦥 <br>
 Flutter & Dart : <br>
   - [Fork-FLutter Roadmap](https://github.com/ariefhk/Flutter-Roadmap)
   - [Fork-Dart Algo](https://github.com/ariefhk/DartAlgo)
