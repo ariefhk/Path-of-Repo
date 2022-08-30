@@ -1,5 +1,17 @@
 # Path Repository biar gampang Maintain 👨‍💻<br>
 
+## Projects🐱‍💻 <br>
+WEB🕸 :<br>
+ - [Ngaostfm](https://github.com/ariefhk/ngaostfm-web)
+ - [Design to Code](https://github.com/ariefhk/design-to-code)
+ - [Ngaos Web-Tailwind](https://github.com/ariefhk/tailwind-ngaos)
+ - [TeachUs Landing Page - Inmed Slicing - Tailwind](https://github.com/ariefhk/teachUs-landing-page)
+ 
+ReactJs🕸:<br>
+ 
+React Native📱:<br>
+- [SanberCode Academy Apps](https://github.com/ariefhk/sanber-code-academy)
+
 ## Focused🔥 <br>
 MSIB - BISA AI : (FOCUSED🔥)<br>
   - [Bisa Ai Learning Journal](https://github.com/ariefhk/Bisa-Ai-Learning-Journal)
@@ -41,17 +53,6 @@ React Native : (FOCUSED🔥)<br>
 Node Js : (FOCUSED🔥)<br>
   - [Learn Node](https://github.com/ariefhk/Learn-node)<br>
   
-## Projects🐱‍💻 <br>
-WEB🕸 :<br>
- - [Ngaostfm](https://github.com/ariefhk/ngaostfm-web)
- - [Design to Code](https://github.com/ariefhk/design-to-code)
- - [Ngaos Web-Tailwind](https://github.com/ariefhk/tailwind-ngaos)
- - [TeachUs Landing Page - Inmed Slicing - Tailwind](https://github.com/ariefhk/teachUs-landing-page)
- 
-ReactJs🕸:<br>
- 
-React Native📱:<br>
-- [SanberCode Academy Apps](https://github.com/ariefhk/sanber-code-academy)
 
 ## Learning Journal💻 <br>
 Skilvul : [Link-repo](https://github.com/ariefhk/Skilvul-learning-journal)
