@@ -18,13 +18,9 @@ WEB : (FOCUSED🔥)<br>
   - Vanilla JS
     - [Learn Vanilla JS](https://github.com/ariefhk/Learn-JavaScript)
   - Project WEB
-    - [Ngaostfm](https://github.com/ariefhk/ngaostfm-web)
-    - [Design to Code](https://github.com/ariefhk/design-to-code)
     - [Fork-50Projects 50 days WEB](https://github.com/ariefhk/50projects50daysWEB)
 
 Tailwind : (FOCUSED🔥)<br>
-  - [Ngaos Web](https://github.com/ariefhk/tailwind-ngaos)
-  - [TeachUs Landing Page - Inmed Slicing](https://github.com/ariefhk/teachUs-landing-page)
   - [Portofolio Web](https://github.com/ariefhk/portfolio-tailwindcss)
   - [Experiment-tailwind](https://github.com/ariefhk/tailwindcss-experiment)
   
@@ -36,15 +32,26 @@ Javascript : (FOCUSED🔥)<br>
 ReactJs : (FOCUSED🔥)<br>
   - [Learn Reactjs](https://github.com/ariefhk/Learn-ReactJs)
   - [Fork-30 Days of ReactJs](https://github.com/ariefhk/30-Days-Of-ReactJs)
-
+  
 React Native : (FOCUSED🔥)<br>
   - [Learn RN](https://github.com/ariefhk/Learn-RN)
   - [RN-Component](https://github.com/ariefhk/RN-Component)
-  - [SanberCode Academy Apps](https://github.com/ariefhk/sanber-code-academy)
   - [Fork-30 Days of RN](https://github.com/ariefhk/30-days-of-react-native)
   
 Node Js : (FOCUSED🔥)<br>
   - [Learn Node](https://github.com/ariefhk/Learn-node)<br>
+  
+## Projects🐱‍💻 <br>
+WEB🕸 :<br>
+ - [Ngaostfm](https://github.com/ariefhk/ngaostfm-web)
+ - [Design to Code](https://github.com/ariefhk/design-to-code)
+ - [Ngaos Web-Tailwind](https://github.com/ariefhk/tailwind-ngaos)
+ - [TeachUs Landing Page - Inmed Slicing - Tailwind](https://github.com/ariefhk/teachUs-landing-page)
+ 
+ReactJs🕸:<br>
+ 
+React Native📱:<br>
+- [SanberCode Academy Apps](https://github.com/ariefhk/sanber-code-academy)
 
 ## Learning Journal💻 <br>
 Skilvul : [Link-repo](https://github.com/ariefhk/Skilvul-learning-journal)
