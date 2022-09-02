@@ -1,6 +1,14 @@
 # Path Repository biar gampang Maintain 👨‍💻<br>
 
 ## Projects🐱‍💻 <br>
+
+JS-Content👨‍🏫 :<br>
+ - [Deep with JS](https://github.com/ariefhk/Deep-with-Js)
+ 
+Pytho-Content👨‍🏫 :<br>
+ - [Deep with Py](
+https://github.com/ariefhk/Deep-with-Py)
+
 WEB🕸 :<br>
  - [Ngaostfm](https://github.com/ariefhk/ngaostfm-web)
  - [Design to Code](https://github.com/ariefhk/design-to-code)
