@@ -7,6 +7,9 @@ JS👨‍🏫 :<br>
  
 ReactJs🕸:<br>
 - [Deep with ReactJs](https://github.com/ariefhk/Deep-with-ReactJs)
+
+WEB🕸 :<br>
+ - [Deep with WEB](https://github.com/ariefhk/Deep-with-WEB)
  
 Python👨‍🏫 :<br>
  - [Deep with Py](https://github.com/ariefhk/Deep-with-Py)
@@ -14,8 +17,6 @@ Python👨‍🏫 :<br>
 Data Science / ML👨‍🏫 :<br>
  - [Deep with DS / ML](https://github.com/ariefhk/Deep-with-DS_Ml)
 
-WEB🕸 :<br>
- 
 React Native📱:<br>
 - [SanberCode Academy Apps](https://github.com/ariefhk/sanber-code-academy)
 
