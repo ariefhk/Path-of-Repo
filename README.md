@@ -2,12 +2,14 @@
 
 ## Projects🐱‍💻 <br>
 
-JS-Content👨‍🏫 :<br>
+JS👨‍🏫 :<br>
  - [Deep with JS](https://github.com/ariefhk/Deep-with-Js)
  
-Pytho-Content👨‍🏫 :<br>
- - [Deep with Py](
-https://github.com/ariefhk/Deep-with-Py)
+Python👨‍🏫 :<br>
+ - [Deep with Py](https://github.com/ariefhk/Deep-with-Py)
+
+Data Science / ML👨‍🏫 :<br>
+ - [Deep with DS / ML](https://github.com/ariefhk/Deep-with-DS_Ml)
 
 WEB🕸 :<br>
  - [Ngaostfm](https://github.com/ariefhk/ngaostfm-web)
