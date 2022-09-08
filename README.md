@@ -5,6 +5,9 @@
 JS👨‍🏫 :<br>
  - [Deep with JS](https://github.com/ariefhk/Deep-with-Js)
  
+ReactJs🕸:<br>
+- [Deep with ReactJs](https://github.com/ariefhk/Deep-with-ReactJs)
+ 
 Python👨‍🏫 :<br>
  - [Deep with Py](https://github.com/ariefhk/Deep-with-Py)
 
@@ -12,12 +15,6 @@ Data Science / ML👨‍🏫 :<br>
  - [Deep with DS / ML](https://github.com/ariefhk/Deep-with-DS_Ml)
 
 WEB🕸 :<br>
- - [Ngaostfm](https://github.com/ariefhk/ngaostfm-web)
- - [Design to Code](https://github.com/ariefhk/design-to-code)
- - [Ngaos Web-Tailwind](https://github.com/ariefhk/tailwind-ngaos)
- - [TeachUs Landing Page - Inmed Slicing - Tailwind](https://github.com/ariefhk/teachUs-landing-page)
- 
-ReactJs🕸:<br>
  
 React Native📱:<br>
 - [SanberCode Academy Apps](https://github.com/ariefhk/sanber-code-academy)
@@ -41,6 +38,10 @@ WEB : (FOCUSED🔥)<br>
     - [Learn Vanilla JS](https://github.com/ariefhk/Learn-JavaScript)
   - Project WEB
     - [Fork-50Projects 50 days WEB](https://github.com/ariefhk/50projects50daysWEB)
+    - [Ngaostfm](https://github.com/ariefhk/ngaostfm-web)
+    - [Design to Code](https://github.com/ariefhk/design-to-code)
+    - [Ngaos Web-Tailwind](https://github.com/ariefhk/tailwind-ngaos)
+    - [TeachUs Landing Page - Inmed Slicing - Tailwind](https://github.com/ariefhk/teachUs-landing-page)
 
 Tailwind : (FOCUSED🔥)<br>
   - [Portofolio Web](https://github.com/ariefhk/portfolio-tailwindcss)
