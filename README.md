@@ -86,33 +86,6 @@ Collection : <br>
     - [Simple icons](https://simpleicons.org/?q=yout)<br>
   
 
-## Not Focused🦥 <br>
-Flutter & Dart : <br>
-  - [Fork-FLutter Roadmap](https://github.com/ariefhk/Flutter-Roadmap)
-  - [Fork-Dart Algo](https://github.com/ariefhk/DartAlgo)
-  - [Flutter Core-Me](https://github.com/ariefhk/Flutter-Core-me)
-  - [Learn Flutter](https://github.com/ariefhk/Learn-Flutter)
-  - [Modul Pak Nandang](https://github.com/ariefhk/modul-Pak-Nandang)
-  - [BWA-Flutter](https://github.com/ariefhk/bwa-flutter)
-  - [Dart Exercise](https://github.com/ariefhk/Dart-Exercise)
-  - [CRUD Firebase Project](https://github.com/ariefhk/Crud-Firebase)
-  - [Check On- Aplikasi Cek Ongkir](https://github.com/ariefhk/CheckOn-Aplikasi_Cek_Ongkir)
-  - [Calculator App](https://github.com/ariefhk/Calculator-App)
-  - [ChatApp Collab Azka](https://github.com/ariefhk/ChatApp-Collab-Azka)
-  - [NewsApp](https://github.com/ariefhk/NewsApp)
-  - [Telegram Clone](https://github.com/ariefhk/telegram_clone)
-  - [Flutter GetX](https://github.com/ariefhk/Flutter-GetX-me)
-  
-Android : <br>
-  - [Android from Zero](https://github.com/ariefhk/Learning-Android-From-Zero)
-  - [Film Manager App](https://github.com/ariefhk/FilmManagerApp-CRUD)
-  
-Kotlin : <br>
-  - [Learn Kotlin](https://github.com/ariefhk/data-structures-and-algorithms-kotlin)
-  
-Java : <br>
-  - [Fork-Java Algorithm](https://github.com/ariefhk/java-algorithms-implementation)
-  - [Voting Apps Netbeans Dekstop App](https://github.com/ariefhk/aplikasi-voting-VotingApps-)
 
 
 
