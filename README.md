@@ -81,7 +81,9 @@ Collection : <br>
   - SVG 
     - [SVG Repo](https://github.com/ariefhk/svg-resource)
   - Daftar API
-    - [Fork-Daftar Lokal](https://github.com/ariefhk/DAFTAR-API-LOKAL-INDONESIA)<br>
+    - [Fork-Daftar Lokal](https://github.com/ariefhk/DAFTAR-API-LOKAL-INDONESIA)
+  - Simple Icons
+    - [Simple icons](https://simpleicons.org/?q=yout)<br>
   
 
 ## Not Focused🦥 <br>
