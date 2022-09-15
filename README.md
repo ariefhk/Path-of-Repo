@@ -91,12 +91,3 @@ W3Schools : [Link-repo](https://github.com/ariefhk/W3School-Learn)
 PDF Learn Coding : [Link-repo](https://github.com/ariefhk/PDF-Learn-About-Coding)
 
 Linkedin Test : [Link-repo](https://github.com/ariefhk/linkedin-skill-assessments-quizzes)
-
-Collection :
-
-- SVG
-  - [SVG Repo](https://github.com/ariefhk/svg-resource)
-- Daftar API
-  - [Fork-Daftar Lokal](https://github.com/ariefhk/DAFTAR-API-LOKAL-INDONESIA)
-- Simple Icons
-  - [Simple icons](https://simpleicons.org/?q=yout)
