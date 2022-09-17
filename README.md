@@ -80,14 +80,4 @@ Node Js : (FOCUSED🔥)
 
 - [Learn Node](https://github.com/ariefhk/Learn-node)
 
-## Learning Journal💻
 
-Skilvul : [Link-repo](https://github.com/ariefhk/Skilvul-learning-journal)
-
-FreeCodeCamp : [Link-repo](https://github.com/ariefhk/FreeCodeCamp)
-
-W3Schools : [Link-repo](https://github.com/ariefhk/W3School-Learn)
-
-PDF Learn Coding : [Link-repo](https://github.com/ariefhk/PDF-Learn-About-Coding)
-
-Linkedin Test : [Link-repo](https://github.com/ariefhk/linkedin-skill-assessments-quizzes)
