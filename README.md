@@ -37,6 +37,7 @@
 11. [Fetch api web](https://github.com/ariefhk/fetch-api-web)
 12. [Ngaostfm web](https://github.com/ariefhk/ngaostfm-web)
 13. [Learn php](https://github.com/ariefhk/Learn-PHP)
+14. [Tailwind tips & trick](https://github.com/ariefhk/Tailwind-Reactjs-Tips-Trick)
 
 ### Python👨‍🏫 :
 1. [Deep with Py](https://github.com/ariefhk/Deep-with-Py)
