@@ -72,6 +72,7 @@
 10. [Linkedin assesment quizez](https://github.com/ariefhk/linkedin-skill-assessments-quizzes)
 11. [You Dont Know Js](https://github.com/ariefhk/You-Dont-Know-JS)
 12. [Markdown](https://github.com/ariefhk/markdown-here)
+13. [readme stasts](https://github.com/ariefhk/github-readme-stats)
 
 ### Recap Pelatihan
 1. MSIB- Bisa Ai
